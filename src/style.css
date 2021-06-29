@@ -5,12 +5,12 @@
 }
 
 :root {
-  --title-font: serif;
+  --title-font: "Sintony", sans-serif;
   --text-font: aerial;
 
-  --primary-color: crimson;
-  --secondary-color: white;
-  --accent-color: purple;
+  --primary-color: #434655;
+  --secondary-color: #e2eaee;
+  --accent-color: #d7d0e1;
 }
 
 h1,

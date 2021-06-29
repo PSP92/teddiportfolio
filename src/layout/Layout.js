@@ -13,7 +13,7 @@ const Layout = props => {
             <Link to="/blog">BLOG</Link>
             <Link to="/projects">Projects</Link>
             <a href="">Github</a>
-            <a href="">LinkedIN</a>
+            <a href="">Linkedin</a>
           </div>
         </nav>
       </header>
